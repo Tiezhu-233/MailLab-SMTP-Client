@@ -1,0 +1,21 @@
+# Compiled Java classes
+*.class
+
+# Build output
+out/
+bin/
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS/editor temp files
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Local secrets / machine-specific config
+config.properties
